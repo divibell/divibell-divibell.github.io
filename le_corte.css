@@ -453,3 +453,7 @@ input[type="number"]::-webkit-inner-spin-button {
 .footer_high_right > span {
     text-align: left;
 }
+
+* {
+    scroll-behavior: smooth;
+}
